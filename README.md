@@ -1,5 +1,5 @@
 # Deep-Learning-for-Image-Restoration-Under-Adverse-Weather-Conditions  
-**DeSnow**
+**DeSnow On SRRS**
 
 | Method | PSNR | SSIM | Reported by | Code |
 |-------|-------|-------|-------|-------|
