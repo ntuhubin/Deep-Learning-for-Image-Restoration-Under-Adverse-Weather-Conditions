@@ -3,4 +3,4 @@
 
 | Method | PSNR | SSIM | Reported by | Code |
 |-------|-------|-------|-------|-------|
-| SwinIR | 0 | 0 | 0 | 0 |
+| SwinIR | 0 | 0 | 0 | [PyTorch](https://github.com/JingyunLiang/SwinIR) |
